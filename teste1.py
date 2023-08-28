@@ -1,4 +1,4 @@
-#crie um progama que peça um número e mostre seu sucessr e antecessor.
+#crie um progama que peça um número e mostre seu sucessor e antecessor.
 #a váriavel "numero" irá pegar um número inteiro do usuário, já os outros 2(antecessor e sucessor)vão somar e subtrair,para obter os resultados.
 numero = int(input("Digite um número inteiro:"))
 antecessor = (numero - 1)
