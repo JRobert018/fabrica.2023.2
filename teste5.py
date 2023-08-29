@@ -4,3 +4,4 @@ for n in range(31):
     if n == 20:
         print("chegou no 20,parando.")
         break
+    
